@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MapboxScale.iml" filepath="$PROJECT_DIR$/MapboxScale.iml" group="MapboxScale" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MapboxScale/app" />
+    </modules>
+  </component>
+</project>
